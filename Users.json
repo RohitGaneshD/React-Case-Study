@@ -1,0 +1,49 @@
+{
+  "users": [
+    {
+      "id": "2",
+      "firstName": "Malleswari",
+      "lastName": "d",
+      "age": 28,
+      "gender": "female",
+      "email": "malleswari@gmail.com",
+      "amount": 0
+    },
+    {
+      "id": "92778",
+      "firstName": "Rohit Ganesh",
+      "lastName": "Dall",
+      "age": "19",
+      "gender": "Male",
+      "email": "rohit@test.com",
+      "amount": 0
+    },
+    {
+      "id": "d101",
+      "firstName": "Pushpa",
+      "lastName": "g",
+      "age": "12",
+      "gender": "Male",
+      "email": "pushpa@gmail.com",
+      "amount": 0
+    },
+    {
+      "id": "6ec2",
+      "firstName": "ranjita",
+      "lastName": "y",
+      "age": "25",
+      "gender": "Male",
+      "email": "ranjita@gmail.com",
+      "amount": 24865
+    },
+    {
+      "id": "4886",
+      "firstName": "Hema",
+      "lastName": "d",
+      "age": "25",
+      "gender": "Male",
+      "email": "hema@gmail.com",
+      "amount": 18766
+    }
+  ]
+}
